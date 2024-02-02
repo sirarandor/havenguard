@@ -11,8 +11,12 @@
             "id": "e3c9bf16dbceab74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "story/lore/world.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "story/lore/world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "story/lore/world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "story/lore/world.md"
+              }
             }
           }
         ]
@@ -140,6 +148,13 @@
   },
   "active": "5e83d1759d866acd",
   "lastOpenFiles": [
+    "story/lore/language.md",
+    "story/lore/science.md",
+    "story/lore/world.md",
+    "story/shorts/placeholder.md",
+    "story/lore/characters/falen.md",
+    "game/quests/main/placeholder.md",
+    "game/quests/side/placeholder.md",
     "story/lore/characters",
     "story/lore",
     "story/shorts",
